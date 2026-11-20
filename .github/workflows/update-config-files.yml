@@ -1,4 +1,4 @@
-name: Update configuration files
+  name: Update configuration files
 
 on:
   schedule:

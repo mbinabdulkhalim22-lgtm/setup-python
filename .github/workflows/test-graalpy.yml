@@ -1,4 +1,4 @@
-name: Validate GraalPy e2e
+ name: Validate GraalPy e2e
 
 on:
   push:

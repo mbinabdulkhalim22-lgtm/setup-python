@@ -1,4 +1,4 @@
-/* eslint no-unsafe-finally: "off" */
+/ //* eslint no-unsafe-finally: "off" */
 import * as cache from '@actions/cache';
 import * as core from '@actions/core';
 import fs from 'fs';
