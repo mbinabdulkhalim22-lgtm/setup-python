@@ -1,4 +1,4 @@
-import * as core from '@actions/core';
+ import * as core from '@actions/core';
 import * as cache from '@actions/cache';
 
 import fs from 'fs';
